@@ -1,3 +1,3 @@
-# My Simple Portfolio
+# My Portfolio
 
-This is my simple portfolio made up with HTML, CSS, Javascript
+This is my portfolio.
